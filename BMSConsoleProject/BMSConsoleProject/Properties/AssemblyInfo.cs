@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("BoxMonkeySolutionProject")]
+[assembly: AssemblyTitle("BMSConsoleProject")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Microsoft")]
-[assembly: AssemblyProduct("BoxMonkeySolutionProject")]
+[assembly: AssemblyProduct("BMSConsoleProject")]
 [assembly: AssemblyCopyright("Copyright © Microsoft 2019")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("da557528-817d-46bb-b8ef-6266db89d056")]
+[assembly: Guid("5cbc4c38-a95f-461a-9ba9-f1025c188720")]
 
 // Version information for an assembly consists of the following four values:
 //

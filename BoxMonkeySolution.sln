@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29306.81
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoxMonkeySolutionProject", "BoxMonkeySolutionProject\BoxMonkeySolutionProject.csproj", "{DA557528-817D-46BB-B8EF-6266DB89D056}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quote", "BMSQuoteProject\BMSQuoteProject\Quote.csproj", "{19E82318-33E1-4756-BEFF-181B310300D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Console", "BMSConsoleProject\BMSConsoleProject\Console.csproj", "{5CBC4C38-A95F-461A-9BA9-F1025C188720}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +13,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{DA557528-817D-46BB-B8EF-6266DB89D056}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{DA557528-817D-46BB-B8EF-6266DB89D056}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{DA557528-817D-46BB-B8EF-6266DB89D056}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{DA557528-817D-46BB-B8EF-6266DB89D056}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19E82318-33E1-4756-BEFF-181B310300D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19E82318-33E1-4756-BEFF-181B310300D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19E82318-33E1-4756-BEFF-181B310300D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19E82318-33E1-4756-BEFF-181B310300D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CBC4C38-A95F-461A-9BA9-F1025C188720}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CBC4C38-A95F-461A-9BA9-F1025C188720}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CBC4C38-A95F-461A-9BA9-F1025C188720}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CBC4C38-A95F-461A-9BA9-F1025C188720}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
